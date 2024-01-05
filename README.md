@@ -1,1 +1,3 @@
-This repo will contain my work for the IBG course.
+# IBG-Practice
+
+This repo will contain my practice work for the IBG course
